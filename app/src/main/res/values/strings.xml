@@ -1,0 +1,1049 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="tt_coin">TT Coin</string>
+    <string name="about_trip_turbo">About Trip Turbo</string>
+    <string name="sign_in_sign_up">Sign-in or Sign-up</string>
+    <string name="my_account">My Account</string>
+    <string name="information">Information</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="register_as_serviceprovider">Register as a service provider</string>
+    <string name="please_enter_firstname">Please enter firstname</string>
+    <string name="please_enter_lastname">Please enter lastname</string>
+    <string name="please_enter_confirm_password">Please enter confirm password</string>
+    <string name="confirm_password_doesnot_match_password">Confirm password doesn\'t match password.</string>
+
+
+    <!--base-->
+    <string name="language">Language</string>
+    <string name="language_english">English</string>
+    <string name="language_nepali">Nepali</string>
+    <string name="password">Password</string>
+    <string name="please_enter_mobileno">Please enter mobile number</string>
+    <string name="please_enter_username">Please enter username.</string>
+    <string name="please_enter_password">Please enter password.</string>
+
+
+    <string name="message">Message</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_ticket">Cancel Ticket</string>
+    <string name="sending_request">Sending Request....</string>
+
+    <string name="login">Login</string>
+    <string name="are_you_sure_logout">Are you sure you want to logout?</string>
+    <string name="are_you_sure_delete">Are you sure you want to Delete?</string>
+    <string name="are_you_sure">Are you sure?</string>
+
+    <string name="please_logintoproceedtothesystem">Please login to your system</string>
+    <string name="land_digitization">Land Digitization</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot password?</string>
+    <!--    base end-->
+
+
+    <string name="home">Home</string>
+    <string name="socio_economic_info">Socio-Economic Info</string>
+    <string name="agriculture_info">Agriculture Info</string>
+
+    <string name="no_agriculture_info_added">No Agriculture Information added !</string>
+    <string name="settings">Settings</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="my_profile">My Profile</string>
+    <string name="profile">Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="logout">Logout</string>
+    <string name="collect_data">Collect Data</string>
+    <string name="upload_data">Upload Data</string>
+    <string name="download_map">Download Map</string>
+
+    <string name="add_beneficiaries">Add Beneficiary</string>
+    <string name="sync_data_to_server">Sync Data to Server</string>
+    <string name="download_offline_map">Download Offline Map</string>
+    <string name="download_project_dependency">Download Project Dependencies</string>
+    <string name="view_beneficiary">View Beneficiary</string>
+
+
+    <string name="total_farmers">Farmers</string>
+    <string name="total_beneficiary">Beneficiary</string>
+    <string name="total_unsynced_data">UnSynced Data</string>
+    <string name="total_land">Land Area</string>
+
+    <string name="notification_channelId">CHANNEL_TRIPTURBO</string>
+
+
+    <string name="new_farmer_beneficiary">Farmer Beneficiary</string>
+    <string name="view_farmer_beneficiary">View Farmer Beneficiaries</string>
+    <string name="new_group_beneficiary"> Group Beneficiary</string>
+    <string name="view_group_beneficiary">View Group Beneficiaries</string>
+    <string name="new_pvt_firm_beneficiary">Private Firm Beneficiary</string>
+    <string name="view_pvt_firm_beneficiary">View Pvt Firm Beneficiaries</string>
+    <string name="new_cooperative_beneficiary">Cooperative Beneficiary</string>
+    <string name="view_cooperative_beneficiary">Cooperative Beneficiaries</string>
+    <string name="next">Next</string>
+
+    <string name="age">Age (Year)</string>
+    <string name="type_age">Type Age</string>
+    <string name="caste_ethnicity">Caste/Ethnicity</string>
+    <string name="please_caste_ethnicity">Please select ethnicity</string>
+    <string name="number_of_active_member">Number of active members engaged in agriculture (16 years old or more)</string>
+    <string name="settlement_name">Settlement Name</string>
+    <string name="type_settlement_name">Type Settlement Name</string>
+    <string name="gender">Gender</string>
+    <string name="education">Education</string>
+    <string name="type_mobile_number">Type mobile number</string>
+    <string name="alternate_mobile_number">Alternate mobile number</string>
+    <string name="type_alternate_mobile_number">Type Alternate mobile number</string>
+    <string name="alternate_mobile_owner">Alternate mobile owner name</string>
+    <string name="relation">Relation</string>
+    <string name="type_nameof_altenate_mobileowner">Type name of alternate mobile owner</string>
+    <string name="province">Province</string>
+    <string name="current_address">Current Address</string>
+    <string name="permanent_address">Permanent Address</string>
+    <string name="district">District</string>
+    <string name="municipality">Municipality</string>
+    <string name="palika">Palika</string>
+    <string name="ward">Ward</string>
+    <string name="village">Village</string>
+    <string name="please_select_province">Please select province</string>
+    <string name="please_select_district">Please select district</string>
+    <string name="please_select_palika">Please select palika</string>
+    <string name="please_enter_district">Please enter district.</string>
+    <string name="please_enter_wardno">Please enter ward number.</string>
+
+    <string name="please_select_current_province">Please select current province</string>
+    <string name="please_select_current_district">Please select current district</string>
+    <string name="please_select_current_palika">Please select current Palika</string>
+    <string name="please_select_current_ward">Please select current ward</string>
+    <string name="please_select_current_village">Please select current village</string>
+
+    <string name="please_select_permanent_province">Please select permanent province</string>
+    <string name="please_select_permanent_district">Please select permanent district</string>
+    <string name="please_select_permanent_palika">Please select permanent palika</string>
+
+
+    <string name="please_select_permanent_ward">Please select permanent ward</string>
+    <string name="please_select_permanent_village">Please select permanent village</string>
+
+    <string name="please_enter_tole">Please enter Village.</string>
+    <string name="associated_farmergroup_cooperative">Associated Farmer group or cooperative</string>
+    <string name="type_associated_farmer_group_cooperative">Farmer group or cooperative</string>
+    <string name="type_farmergroup_cooperative">Type Farmer group or cooperative</string>
+    <string name="group_name">Group Name</string>
+
+
+    <string name="bank_name">Bank Name</string>
+    <string name="bank_branch">Branch</string>
+    <string name="account_number">Account Number</string>
+    <string name="confirm_account_number">Confirm Account Number</string>
+    <string name="account_holder_name">Account Holder Name</string>
+
+    <string name="fullname">Full Name</string>
+    <string name="date_of_birth_bs">Date Of Birth(B.S)</string>
+    <string name="date_of_birth_ad">Date Of Birth(A.D)</string>
+    <string name="father_name">Father Name</string>
+    <string name="grand_father_name">GrandFather Name</string>
+    <string name="marital_status">Marital Status</string>
+    <string name="spouse_name">Spouse Name</string>
+    <string name="occupation">Occupation</string>
+    <string name="issued_date_bs">Issued date (B.S)</string>
+    <string name="issued_date_ad">Issued date (A.D)</string>
+    <string name="issued_district">Issued District</string>
+    <string name="document_details">Document Details</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="front_citizen">Citizenship Front Photo</string>
+    <string name="back_citizen">Citizenship Back Photo</string>
+
+
+    <string name="save">Save</string>
+    <string name="upload_list">Upload List</string>
+
+    <string name="contact_details">Contact Details</string>
+    <string name="address">Address</string>
+    <string name="details">Details</string>
+    <string name="commodity_info">Commodity Information</string>
+
+
+    <string name="please_select_date">Please Select Date</string>
+    <string name="select_date"> Select Plantation Date</string>
+    <string name="citizenship_number">CitizenShip Number</string>
+    <string name="current_address_and_permanent_address_are_same">current address and permanent address are same</string>
+    <string name="age_should_be_greater_then_16">Age should be greater then 14</string>
+    <string name="please_wait">Please wait</string>
+
+    //flight search
+    <string name="please_enter_daparture_date">Please enter departure date</string>
+    <string name="please_enter_daparture_from">Please enter departure destination</string>
+    <string name="please_enter_flying_to">Please enter arrival destination</string>
+    <string name="flight_request">Flight Request</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="invalid_old_password">Invalid old password</string>
+    <string name="invalid_new_password">Invalid new password</string>
+    <string name="invalid_re_password">Invalid confirm password</string>
+    <string name="gcp_id">448940899193-saf5e0a5v1vkm78veg9d9jh3q9vjg47f.apps.googleusercontent.com</string>
+    <!--    <string name="gcp_id">441234230541-kij0kgjugtfn0i26dc8lrfgfd79ofbqi.apps.googleusercontent.com</string>-->
+
+
+    <string name="verify_with_exclamation">Forgot Password !!</string>
+    <string name="forgot_slogan">Please enter your registered email</string>
+    <string name="verify">Submit</string>
+    <string name="please_enter_otp">Please enter the OTP which was sent to your email.</string>
+    <string name="create_new_password">New Password</string>
+    <string name="otp">OTP Code</string>
+    <!--    <string name="facebook_app_id">765393174983323</string>-->
+    <!--    <string name="fb_login_protocol_scheme">fb765393174983323</string>-->
+    <!--    <string name="facebook_client_token">4a268554702f7202258aa45cb0e1bf08</string>-->
+    <string name="facebook_app_id">649147956343010</string>
+    <string name="fb_login_protocol_scheme">fb649147956343010</string>
+    <string name="facebook_client_token">b956744ff3cd25a18ec1280d46269d12</string>
+    <string name="please_select_nationality">Please select nationality</string>
+    <string name="please_select_price_unit">Please select price Unit</string>
+    <string name="please_select_category">Please select category</string>
+    <string name="please_select_booking_date">Please select booking date</string>
+    <string name="please_enter_return_date">Please enter return date</string>
+    <string name="return_date_should_be_greater_then_departure_date">Return date can\'t be less then departure date</string>
+    <string name="add_mobile_number">Please add mobile number</string>
+    <string name="add_mobile_number_slogan">Please provide valid phone number</string>
+    <string name="please_select_passenger">Please choose at least one passenger</string>
+    <string name="please_accept_terms_condition">Please accept our terms and condition</string>
+
+
+    <!-- Misc Text-->
+    <string name="add_more">Add More</string>
+    <string name="text_remove">Remove</string>
+    <string name="select_one">Select One</string>
+
+    <!--Button Text-->
+    <string name="button_continue">Continue</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_update">Update</string>
+    <string name="button_save">Save</string>
+    <string name="button_add">Add</string>
+    <string name="button_finish">Finish</string>
+    <string name="button_agree">Agree</string>
+
+    <!-- Service Providers Loading Messages-->
+    <string name="loading_booking">Loading Booking…</string>
+    <string name="loading_data_contact_person">Loading Contact Person Data…</string>
+    <string name="loading_data_address">Loading Address…</string>
+    <string name="loading_data_documents">Loading Documents…</string>
+    <string name="loading_data_payments">Loading Payment Details…</string>
+
+    <!-- Service Providers Loading Messages Ends Here-->
+
+
+    <!-- Enrollment Resources -->
+    <string name="text_incomplete_registration">Incomplete Registration!!! \n</string>
+    <string name="continue_enrollment">Continue Enrollment</string>
+    <string name="enrollment_success_done">DONE</string>
+    <string name="text_welcome_to">Welcome to </string>
+    <string name="text_please_complete_your_registration_by_tapping_continue_enrollment">Please complete your registration by tapping “Continue Enrollment” below.</string>
+
+    <string name="remove">Remove</string>
+    <!-- Enrollment Resources Here-->
+
+    <!-- MapAddressPicker -->
+    <string name="text_search">Search</string>
+    <string name="text_close">Close</string>
+    <!-- MapAddressPicker Ends Here -->
+
+    <!-- Business Info Activity -->
+    <string name="what_is_the_name_of_your_business_company">What is the name of your business company?</string>
+    <string name="holder_company_name">Company name</string>
+    <string name="where_is_your_business_listing">Where is the business you are listing?</string>
+    <string name="we_may_send_letter_to_confirm">We may send a letter to confirm the location of your business, so make sure that the address is correct. It’s difficult to make changes to this later.</string>
+    <string name="ward_number">Ward Number</string>
+    <string name="ward_no">Ward no.</string>
+    <string name="add_additional_landmark">Add additional landmark (optional)</string>
+    <!-- Business Info Activity Ends Here-->
+
+
+    <!-- Contact Person Activity-->
+    <string name="main_contact_person">Contact Person</string>
+    <string name="user_are_required_to_fill_all_the_following_details">User are required to fill all the following details</string>
+    <string name="full_name">Full Name</string>
+    <string name="citizenship_id">Citizenship Id</string>
+    <string name="your_citizenship_number">your citizenship number</string>
+    <string name="citizenship_photo_front">Citizenship Photo(Front)</string>
+    <string name="citizenship_photo_back">Citizenship Photo(Back)</string>
+    <string name="image_should_be_in_either_jpeg_or_png_format">Images should be in either JPEG or PNG format</string>
+    <string name="error_please_fill_all_the_form_fields">Please Fill All The Form Fields.</string>
+    <string name="error_please_enter_contact_person_full_name">Please enter contact person full name.</string>
+    <string name="error_please_enter_contact_person_address">Please enter contact person address.</string>
+    <string name="error_please_enter_contact_person_mobile_number">Please enter contact person mobile number.</string>
+    <string name="error_please_enter_valid_contact_person_mobile_number">Please enter a valid contact person number.</string>
+    <string name="error_please_enter_contact_person_citizenship_number">Please enter contact person citizenship number.</string>
+    <string name="error_please_upload_contact_person_citizenship_front_image">Please upload contact person citizenship front image.</string>
+    <string name="error_please_upload_contact_person_citizenship_back_image">Please upload contact person citizenship back image.</string>
+    <!-- Contact Person Activity Ends Here-->
+
+    <!-- Payment Activity -->
+    <string name="main_payment">Payment</string>
+    <string name="for_monetary_transaction_purpose_user_are_required_to">For monetary transaction purposes, users are required to provide the following details.</string>
+    <string name="bank_detail">Banking Detail </string>
+    <string name="payment_bank_name">Bank Name</string>
+    <string name="payment_account_holder">Account Holder</string>
+    <string name="payment_account_number">Account Number</string>
+    <string name="payment_bank_priority">Select Priority</string>
+    <string name="payment_bank_add_more">Add new bank</string>
+    <string name="payment_bank_remove">Remove</string>
+    <string name="payment_wallet_detail">E-Wallet Detail</string>
+    <string name="payment_wallet_e_wallet_type">E-Wallet Type</string>
+    <string name="payment_wallet_account_holder">E-Wallet Account Holder</string>
+    <string name="payment_wallet_id">E-Wallet ID (mobile number)</string>
+    <string name="payment_add_new_wallet">Add new wallet</string>
+    <string name="payment_remove_wallet">Remove</string>
+    <!-- Payment Activity Ends Here-->
+
+
+    <!-- General Schedule Activity -->
+    <string name="main_general_schedule">General Schedule</string>
+    <string name="at_what_time_does_your_business_open_and_close">At what time does your business open and close?</string>
+    <string name="opening_time">Opening Time</string>
+    <string name="open_hours">Open Hours:  </string>
+    <string name="schedule">Schedule</string>
+    <string name="closing_time">Closing Time</string>
+    <string name="in_which_day_does_your_business_opens_every_weekdays">On which weekdays is your business operational?</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="all_of_above">All of above</string>
+    <string name="do_you_have_fixed_duration_for_your_service">Do you have fixed duration for your service?</string>
+    <string name="duration_minute">Duration (minute)</string>
+    <string name="error_please_enter_your_fixed_duration_of_service">Please enter your fixed duration of service.</string>
+    <string name="error_please_checkmark_at_the_days_business_opens">Please checkmark at the days business opens.</string>
+    <string name="error_please_set_business_closing_time">Please set business Closing Time.</string>
+    <string name="error_please_ser_business_opening_time">Please set business Opening Time.</string>
+    <string name="text_time_is_in_format">Time is in 24 hour format.</string>
+    <!-- General Schedule Activity Ends Here-->
+
+    <!-- Service Provider Business Service -->
+    <string name="business_service">SELECT BUSINESS ACTIVITY</string>
+    <!--    <string name="business_service">Services</string>-->
+    <string name="error_please_select_one_of_the_service">Please Select One Of The Service</string>
+    <!-- Service Provider Business Service Ends Here-->
+
+    <!-- Service Provider Booking Policy -->
+    <string name="booking_policy">Booking Policy</string>
+    <string name="default_booking_policy">Default Booking Policy</string>
+    <string name="my_booking_policy">My Booking Policy</string>
+    <string name="default_detail_booking_policy">Customers must book their order %d  %s  before booking the service.</string>
+    <string name="do_you_wish_to_change_default_booking_policy">Do you wish to follow the booking policy recommended by Tripturbo ?</string>
+    <string name="what_is_the_minimum_amount_of_time_the_user_is_eligible_for_booking_your_service">What is the minimum amount of time the user is eligible for booking your services?</string>
+    <string name="holder_duration">Duration</string>
+    <!-- Service Provider Booking Policy Ends Here -->
+
+    <!-- SPNotification Resources -->
+    <string name="sp_notification">Notification</string>
+    <!-- SPNotification Resources Ends Here -->
+
+    <!-- Service Provider Cancellation Policy -->
+    <string name="main_cancellation_policy">Cancellation Policy</string>
+    <string name="cancellation_refund_policy">Cancellation/Refund Policy</string>
+    <string name="cancellation_detail_full_refund">Cancelling the booked service before %s %s will get 100 percent refund.</string>
+    <string name="cancellation_detail_deduct_refund">Cancelling the booked service before %s %s will get %s percent refund.</string>
+    <string name="do_you_wish_to_change_the_cancellation_policy_recommended_by_trip_turbo">Do you wish to follow the cancellation policy recommended by Tripturbo ?</string>
+    <string name="what_is_the_maximum_amount_of_time_the_user_is_eligible_for_free_cancellation">What is the maximum amount of time the user is eligible for free cancellation fee?</string>
+    <string name="do_you_agree_for_not_waiving_cancellation_fee_if_the_user_cancel_their">Do you agree for not waiving cancellation fee if the users cancel their bookings within the timeline?</string>
+    <string name="how_much_percent_will_be_deducted_from_his_her_total_amount">How much percentage(%) will be deducted from his/her total amount if the customer exceeds the cancellation deadline?</string>
+    <string name="refund">Refund</string>
+    <string name="time">Time</string>
+    <string name="error_max_limit_reached">Maximum Limit Reached.</string>
+    <string name="error_please_select_the_time_unit_for_full_refund">Please select the time unit value for 100% refund.</string>
+    <string name="error_please_enter_the_time_value_for_full_refund">Please fill the time value for 100% refund.</string>
+    <string name="error_please_select_time_unit">Please select the time unit.</string>
+    <string name="error_please_enter_time_value">Please enter the time value.</string>
+    <string name="error_please_enter_refund_percent_value">Please enter the refund percentage value.</string>
+    <!-- Service Provider Cancellation Policy Ends Here -->
+
+
+    <!-- Service Provider Inventory Form-->
+    <string name="main_inventory">%s Inventory</string>
+    <string name="form_one_of_one">Form %d of %d</string>
+    <string name="inventory_select_one_service_type">Please Select Any</string>
+    <string name="inventory_service_type">%s Type</string>
+    <string name="category">Category</string>
+    <string name="inventory_category_name">Category name</string>
+    <string name="add_category_photo">Add Category Photo</string>
+    <string name="what_is_the_total_number_of_service_you_own">What is the total number of %s you own?</string>
+    <string name="how_many_service_do_you_want_to_register">How many %s do you want to register in trip-turbo of this type?</string>
+    <string name="is_ticket_based">Is ticket based?</string>
+    <string name="how_do_you_like_your_service_to_be_booked">How do you like your service to be booked?</string>
+    <string name="bulk_booking">Bulk Booking</string>
+    <string name="individual_booking">Individual Booking</string>
+    <string name="no_time_needed">No time Needed?</string>
+    <string name="capacity_seat">Seat Capacity</string>
+    <string name="capacity">Capacity</string>
+    <string name="add_another_inventory">Add another inventory</string>
+    <string name="inventory_no_of_available_type">Number of available type</string>
+
+    <!-- Service Provider Inventory Form Ends Here-->
+
+
+    <!-- Pricing Detail Activity -->
+    <string name="main_pricing_Detail">Pricing Details</string>
+    <string name="inventory_type">Inventory Type</string>
+    <string name="select_your_price_rate">Select Your Price Rate</string>
+    <string name="select_nationality_and_age_group">Select Nationality and Age Group</string>
+    <string name="is_he_she_student">Is he/she Student</string>
+    <string name="please_fill_the_respective_price_for_its_corresponding_field">Please fill the respective price for its corresponding field</string>
+    <string name="pricing_npr">NPR</string>
+    <string name="pricing_usd">USD</string>
+    <string name="pricing_add_another_pricing">Add Another Pricing</string>
+    <string name="pricing_remove_pricing">Remove</string>
+    <string name="error_please_fill_all_the_fields_in_form">Please fill all the fields in form.</string>
+    <string name="error_select_at_least_an_option_on_inventory">Select at least an option on inventory type in form %d of %d.</string>
+    <string name="error_select_at_least_an_option_on_price_rate_in_form">Select at least an option on price rate in form %d of %d.</string>
+    <string name="error_select_at_least_an_option_on_nationality_in_form">Select at least an option on nationality in form %d of %d.</string>
+    <string name="error_select_at_least_an_option_on_age_group_in_form">Select at least an option on age group in form %d of %d.</string>
+    <string name="error_enter_nepali_price_in_form">Enter NPR price in form %d of %d.</string>
+    <string name="error_enter_usd_price_in_form">Enter USD price in form %d of %d.</string>
+    <string name="clear">Clear</string>
+    <string name="ticket">Ticket</string>
+    <string name="arrival">Arrival Time</string>
+    <string name="departure">Departure Time</string>
+    <string name="duration">Duration</string>
+    <string name="price">Price</string>
+    <string name="pricing">Pricing</string>
+    <string name="proceed_to_payment">Proceed to payment</string>
+    <string name="accept_our">Accept our</string>
+    <string name="terms_and_condition">terms and conditions</string>
+    <string name="original_price">Original price</string>
+    <string name="final_price">Final price</string>
+    <string name="total_payable_amount">Total Payable Amount</string>
+    <string name="room_price">Room price</string>
+    <string name="try_again">login failed try again</string>
+    <string name="cancel_policy">Cancellation Policies</string>
+    <string name="cancellation_policy">Cancellation Policy</string>
+    <string name="services">Services \n </string>
+    <string name="age_group">Age Group</string>
+    <string name="price_usd">Price (USD)</string>
+    <string name="per_ticket">per Ticket</string>
+    <string name="for_nepali">For Nepali</string>
+    <string name="price_npr">Price (NPR)</string>
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+    <string name="popular_amenities">Popular Amenities</string>
+    <string name="your_booking_details">Your booking details</string>
+    <string name="your_room_details">Your room details</string>
+    <string name="enter_your_details">Enter your details</string>
+    <string name="guest_information">Guest Information</string>
+    <string name="special_request">Special Request</string>
+    <string name="make_this_booking_for_someone_else">I\'d like to make this booking for someone else.</string>
+    <string name="not_rated_yet">Not rated yet</string>
+    <string name="no_review">No reviews</string>
+    <string name="phone_verification_note">Note: We respect your privacy. Your phone number is only used to reach out to you for any necessary updates or assistance concerning your booked services.</string>
+    <string name="note">Note</string>
+    <string name="airline_cancellation_charges_applied">Airlines cancellation charges will be applied.</string>
+    <string name="airlines_reschedule_charges_may_apply.">Airlines reschedule charges may apply..</string>
+    <string name="review_us">Review us</string>
+    <string name="review">Reviews</string>
+    <string name="remarks">Remarks</string>
+    <string name="policies">Policy</string>
+    <string name="check_in_from">Check-in from</string>
+    <string name="check_out_until">Check-out until</string>
+    <string name="trip_highlight">Trip Highlights</string>
+    <string name="date">Date</string>
+    <string name="info">Info</string>
+    <string name="ticket_no">Ticket No</string>
+    <string name="bookoing_id">Booking id</string>
+    <string name="book_now">Book Now</string>
+    <string name="no_bookings_yet">No Bookings yet</string>
+    <string name="no_hotels_found">No Hotels Found</string>
+    <string name="no_transaction_yet">No Transactions yet</string>
+    <string name="select_room">Select room</string>
+    <string name="select">select</string>
+    <string name="reserve_room">Reserve Room</string>
+    <string name="see_all">See all</string>
+    <string name="see_less">See less</string>
+    <string name="amenities_and_facilities">Amenities and Facilities</string>
+    <string name="download_ticket">Download Ticket</string>
+    <string name="check_out">Check Out</string>
+    <string name="available">Available</string>
+    <string name="pricing_detail">Pricing Detail</string>
+    <string name="select_departure_date">Select Departure Time</string>
+    <string name="select_time">Select  Time</string>
+    <string name="select_time_unit">Select Time Unit</string>
+    <string name="no_of_ticket">Number of Ticket</string>
+    <string name="no_of_rooms">No. of rooms</string>
+    <string name="reward_coin">Reward Coin</string>
+    <string name="terms_condition">Terms and condition</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="submit_request">Submit Request</string>
+    <string name="status">Status</string>
+    <string name="amount">Coin</string>
+    <string name="nationality">Nationality</string>
+    <string name="exit">  Exit  </string>
+    <string name="add_business_service">Add business Info</string>
+    <string name="available_bank">Available Bank</string>
+    <string name="wallet_detail">Wallet Detail</string>
+    <string name="available_wallet">Available Wallet</string>
+    <string name="payment_info">Users are required to provide at least one of their genuine banking details and they may choose to add additional details from the various monetary platforms listed below.</string>
+    <string name="coinDetail">Introducing TT coins, our way of thanking you for using our app</string>
+    <string name="total_price">Total Ticket Price</string>
+    <string name="add_inventory">Add Inventory</string>
+    <string name="select_service">Select Service</string>
+    <string name="discount">Discount</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="view">View \n </string>
+    <string name="add_ons">Add Ons</string>
+    <string name="payment_details">Payment details</string>
+    <string name="payment_mode_esewa">PAYMENT_MODE_ESEWA</string>
+    <string name="payment_mode_khalti">PAYMENT_MODE_KHALTI</string>
+    <string name="onboarding_message">We regret to inform you that your onboarding process remains incomplete. To proceed, we kindly request you to finalize your onboarding without delay. In case you require any assistance, we encourage you to reach out to our dedicated customer support team for prompt and comprehensive help.</string>
+
+    <!-- Pricing Detail Activity Ends Here -->
+
+
+    <!-- Array Resources For Drop Downs -->
+    <string-array name="dd_nationality">
+        <item>Nepali</item>
+        <item>Foreigners</item>
+    </string-array>
+    <string-array name="dd_nationality_id">
+        <item>97</item>
+        <item>0</item>
+    </string-array>
+
+    <string-array name="dd_age_group">
+        <item>Child</item>
+        <item>Adult</item>
+    </string-array>
+    <string-array name="dd_age_group_id">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="dd_timely">
+        <item>Per Hour</item>
+        <item>Per Day</item>
+        <item>Per Ticket</item>
+    </string-array>
+    <string-array name="dd_timely_id">
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+    </string-array>
+
+    <string-array name="dd_hour_day_only">
+        <item>Hour</item>
+        <item>Day</item>
+    </string-array>
+    <string-array name="dd_hour_day_only_id">
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+
+    <string-array name="countries" formatted="false" translatable="false">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Canary Islands</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Ceuta and Melilla</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo [DRC]</item>
+        <item>Congo [Republic]</item>
+        <item>Costa Rica</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Curaçao</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Côte d’Ivoire</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Europe</item>
+        <item>Faroe Islands</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>French Guiana</item>
+        <item>French Polynesia</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Gibraltar</item>
+        <item>Greece</item>
+        <item>Greenland</item>
+        <item>Grenada</item>
+        <item>Guadeloupe</item>
+        <item>Guam</item>
+        <item>Guatemala</item>
+        <item>Guernsey</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Hong Kong</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Isle of Man</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jersey</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kiribati</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latin America</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Macau</item>
+        <item>Macedonia [FYROM]</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Martinique</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mayotte</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Myanmar [Burma]</item>
+        <item>Namibia</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>New Caledonia</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>North Korea</item>
+        <item>Northern Mariana Islands</item>
+        <item>Norway</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Palestine</item>
+        <item>Panama</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Puerto Rico</item>
+        <item>Qatar</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Réunion</item>
+        <item>Saint Barthélemy</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Martin</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Saudi Arabia</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Sint Maarten</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Korea</item>
+        <item>South Sudan</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>Suriname</item>
+        <item>Swaziland</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>São Tomé and Príncipe</item>
+        <item>Taiwan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Timor-Leste</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turks and Caicos Islands</item>
+        <item>U.S. Outlying Islands</item>
+        <item>U.S. Virgin Islands</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Western Sahara</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+        <item>Åland Islands</item>
+    </string-array>
+    <string name="afghanistan">Afghanistan</string>
+    <string name="albania">Albania</string>
+    <string name="algeria">Algeria</string>
+    <string name="andorra">Andorra</string>
+    <string name="angola">Angola</string>
+    <string name="antigua_and_barbuda">Antigua and Barbuda</string>
+    <string name="argentina">Argentina</string>
+    <string name="armenia">Armenia</string>
+    <string name="australia">Australia</string>
+    <string name="austria">Austria</string>
+    <string name="azerbaijan">Azerbaijan</string>
+    <string name="bahamas">Bahamas</string>
+    <string name="bahrain">Bahrain</string>
+    <string name="bangladesh">Bangladesh</string>
+    <string name="barbados">Barbados</string>
+    <string name="belarus">Belarus</string>
+    <string name="belgium">Belgium</string>
+    <string name="belize">Belize</string>
+    <string name="benin">Benin</string>
+    <string name="bhutan">Bhutan</string>
+    <string name="bolivia">Bolivia</string>
+    <string name="bosnia_and_herzegovina">Bosnia and Herzegovina</string>
+    <string name="botswana">Botswana</string>
+    <string name="brazil">Brazil</string>
+    <string name="brunei">Brunei</string>
+    <string name="bulgaria">Bulgaria</string>
+    <string name="burkina_faso">Burkina Faso</string>
+    <string name="burundi">Burundi</string>
+    <string name="cambodia">Cambodia</string>
+    <string name="cameroon">Cameroon</string>
+    <string name="canada">Canada</string>
+    <string name="cape_verde">Cape Verde</string>
+    <string name="central_african_republic">Central African Republic</string>
+    <string name="chad">Chad</string>
+    <string name="chile">Chile</string>
+    <string name="china">China</string>
+    <string name="colombia">Colombia</string>
+    <string name="comoros">Comoros</string>
+    <string name="costa_rica">Costa Rica</string>
+    <string name="croatia">Croatia</string>
+    <string name="cuba">Cuba</string>
+    <string name="cyprus">Cyprus</string>
+    <string name="czech_republic">Czech Republic</string>
+    <string name="democratic_republic_of_congo">Democratic Republic of Congo</string>
+    <string name="denmark">Denmark</string>
+    <string name="djibouti">Djibouti</string>
+    <string name="dominica">Dominica</string>
+    <string name="dominican_republic">Dominican Republic</string>
+    <string name="east_timor">East Timor</string>
+    <string name="ecuador">Ecuador</string>
+    <string name="egypt">Egypt</string>
+    <string name="el_salvador">El Salvador</string>
+    <string name="equatorial_guinea">Equatorial Guinea</string>
+    <string name="eritrea">Eritrea</string>
+    <string name="estonia">Estonia</string>
+    <string name="eswatini">Eswatini</string>
+    <string name="ethiopia">Ethiopia</string>
+    <string name="fiji">Fiji</string>
+    <string name="finland">Finland</string>
+    <string name="france">France</string>
+    <string name="gabon">Gabon</string>
+    <string name="gambia">Gambia</string>
+    <string name="georgia">Georgia</string>
+    <string name="germany">Germany</string>
+    <string name="ghana">Ghana</string>
+    <string name="greece">Greece</string>
+    <string name="grenada">Grenada</string>
+    <string name="guatemala">Guatemala</string>
+    <string name="guinea">Guinea</string>
+    <string name="guinea_bissau">Guinea-Bissau</string>
+    <string name="guyana">Guyana</string>
+    <string name="haiti">Haiti</string>
+    <string name="honduras">Honduras</string>
+    <string name="hungary">Hungary</string>
+    <string name="iceland">Iceland</string>
+    <string name="india">India</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="iran">Iran</string>
+    <string name="iraq">Iraq</string>
+    <string name="ireland">Ireland</string>
+    <string name="israel">Israel</string>
+    <string name="italy">Italy</string>
+    <string name="ivory_coast">Ivory Coast</string>
+    <string name="jamaica">Jamaica</string>
+    <string name="japan">Japan</string>
+    <string name="jordan">Jordan</string>
+    <string name="kazakhstan">Kazakhstan</string>
+    <string name="kenya">Kenya</string>
+    <string name="kiribati">Kiribati</string>
+    <string name="kosovo">Kosovo</string>
+    <string name="kuwait">Kuwait</string>
+    <string name="kyrgyzstan">Kyrgyzstan</string>
+    <string name="laos">Laos</string>
+    <string name="latvia">Latvia</string>
+    <string name="lebanon">Lebanon</string>
+    <string name="lesotho">Lesotho</string>
+    <string name="liberia">Liberia</string>
+    <string name="libya">Libya</string>
+    <string name="liechtenstein">Liechtenstein</string>
+    <string name="lithuania">Lithuania</string>
+    <string name="luxembourg">Luxembourg</string>
+    <string name="madagascar">Madagascar</string>
+    <string name="malawi">Malawi</string>
+    <string name="malaysia">Malaysia</string>
+    <string name="maldives">Maldives</string>
+    <string name="mali">Mali</string>
+    <string name="malta">Malta</string>
+    <string name="marshall_islands">Marshall Islands</string>
+    <string name="mauritania">Mauritania</string>
+    <string name="mauritius">Mauritius</string>
+    <string name="mexico">Mexico</string>
+    <string name="micronesia">Micronesia</string>
+    <string name="moldova">Moldova</string>
+    <string name="monaco">Monaco</string>
+    <string name="mongolia">Mongolia</string>
+    <string name="montenegro">Montenegro</string>
+    <string name="morocco">Morocco</string>
+    <string name="mozambique">Mozambique</string>
+    <string name="myanmar">Myanmar (formerly Burma)</string>
+    <string name="namibia">Namibia</string>
+    <string name="nauru">Nauru</string>
+    <string name="nepal">Nepal</string>
+    <string name="netherlands">Netherlands</string>
+    <string name="new_zealand">New Zealand</string>
+    <string name="nicaragua">Nicaragua</string>
+    <string name="niger">Niger</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="north_korea">North Korea (Democratic People\'s Republic of Korea)</string>
+    <string name="north_macedonia">North Macedonia (formerly Macedonia)</string>
+    <string name="norway">Norway</string>
+    <string name="oman">Oman</string>
+    <string name="pakistan">Pakistan</string>
+    <string name="palau">Palau</string>
+    <string name="palestine">Palestine</string>
+    <string name="panama">Panama</string>
+    <string name="papua_new_guinea">Papua New Guinea</string>
+    <string name="paraguay">Paraguay</string>
+    <string name="peru">Peru</string>
+    <string name="philippines">Philippines</string>
+    <string name="poland">Poland</string>
+    <string name="portugal">Portugal</string>
+    <string name="qatar">Qatar</string>
+    <string name="romania">Romania</string>
+    <string name="russia">Russia</string>
+    <string name="rwanda">Rwanda</string>
+    <string name="saint_kitts_and_nevis">Saint Kitts and Nevis</string>
+    <string name="saint_lucia">Saint Lucia</string>
+    <string name="saint_vincent_and_the_grenadines">Saint Vincent and the Grenadines</string>
+    <string name="samoa">Samoa</string>
+    <string name="san_marino">San Marino</string>
+    <string name="sao_tome_and_principe">Sao Tome and Principe</string>
+    <string name="saudi_arabia">Saudi Arabia</string>
+    <string name="senegal">Senegal</string>
+    <string name="serbia">Serbia</string>
+    <string name="seychelles">Seychelles</string>
+    <string name="sierra_leone">Sierra Leone</string>
+    <string name="singapore">Singapore</string>
+    <string name="slovakia">Slovakia</string>
+    <string name="slovenia">Slovenia</string>
+    <string name="solomon_islands">Solomon Islands</string>
+    <string name="somalia">Somalia</string>
+    <string name="south_africa">South Africa</string>
+    <string name="south_korea">South Korea (Republic of Korea)</string>
+    <string name="south_sudan">South Sudan</string>
+    <string name="spain">Spain</string>
+    <string name="sri_lanka">Sri Lanka</string>
+    <string name="sudan">Sudan</string>
+    <string name="suriname">Suriname</string>
+    <string name="sweden">Sweden</string>
+    <string name="switzerland">Switzerland</string>
+    <string name="syria">Syria (Syrian Arab Republic)</string>
+    <string name="taiwan">Taiwan (Republic of China)</string>
+    <string name="tajikistan">Tajikistan</string>
+    <string name="tanzania">Tanzania (United Republic of Tanzania)</string>
+    <string name="thailand">Thailand</string>
+    <string name="timor_leste">Timor-Leste (formerly East Timor)</string>
+    <string name="togo">Togo</string>
+    <string name="tonga">Tonga</string>
+    <string name="trinidad_and_tobago">Trinidad and Tobago</string>
+    <string name="tunisia">Tunisia</string>
+    <string name="turkey">Turkey</string>
+    <string name="turkmenistan">Turkmenistan</string>
+    <string name="tuvalu">Tuvalu</string>
+    <string name="uganda">Uganda</string>
+    <string name="ukraine">Ukraine</string>
+    <string name="united_arab_emirates">United Arab Emirates</string>
+    <string name="united_kingdom">United Kingdom</string>
+    <string name="united_states">United States</string>
+    <string name="uruguay">Uruguay</string>
+    <string name="uzbekistan">Uzbekistan</string>
+    <string name="vanuatu">Vanuatu</string>
+    <string name="vatican_city">Vatican City</string>
+    <string name="venezuela">Venezuela</string>
+    <string name="vietnam">Vietnam</string>
+    <string name="yemen">Yemen</string>
+    <string name="zambia">Zambia</string>
+    <string name="zimbabwe">Zimbabwe</string>
+    <string name="please_enter_country_name">Please enter country name</string>
+    <string name="submit">Submit</string>
+    <string name="country">Country</string>
+    <string name="inventory_message">You are required to provide at least one inventory detail and you may choose to add more inventory details.</string>
+    <string name="please_enter_valid_mobileno">Please enter valid mobile number</string>
+
+    <string name="select_your_service_type">Select Your Service Type</string>
+    <string name="select_your_legal_nationality">Please, select your legal nationality</string>
+    <string name="select_nationality">Select Nationality</string>
+    <string name="email">email</string>
+    <string name="email_address">Email address</string>
+    <string name="public_profile">public_profile</string>
+
+    <!--Hotel Strings-->
+
+    <string name="check_in_date">Check-In</string>
+    <string name="check_out_date">Check-Out</string>
+    <string name="apply">Apply</string>
+    <string name="rooms_and_guest">Rooms &amp; Guests</string>
+    <string name="apply_filters">Apply Filters</string>
+    <string name="filters">Filters</string>
+    <string name="guests">Guests</string>
+    <string name="rating">Rating</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="room">Room</string>
+    <string name="rooms">Rooms</string>
+    <string name="room_type">Room Type</string>
+    <string name="room_benefits">Room Benefits</string>
+    <string name="guest">Guest</string>
+    <string name="destination">Destination</string>
+    <string name="search_hotel">Search Hotel</string>
+    <string name="hotel_history">Hotel History</string>
+    <string name="search_destination">Search Destination</string>
+    <string name="view_deal">View Deal</string>
+    <string name="checkInDate_missing">CheckIn Date is Missing!!</string>
+    <string name="checkOutDate_missing">CheckOut Date is Missing!!</string>
+    <string name="Please_add_at_least_one_room">Please add at least one room!!</string>
+    <string name="Please_add_at_least_one_guest">Please add at least one guest!!</string>
+    <string name="child">Child</string>
+    <string name="children">Children</string>
+    <string name="adult">Adult</string>
+    <string name="adults">Adults</string>
+    <string name="participants">Participants</string>
+    <string name="passenger">Passenger</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="mr">Mr</string>
+    <string name="mrs">Ms</string>
+    <string name="citizen">Citizen</string>
+    <string name="participants_detail">Participants Details</string>
+    <string name="passenger_detail">Passenger Details</string>
+    <string name="nepali">Nepali</string>
+    <string name="foreigners">Foreigners</string>
+    <string name="top_destinations">Top destinations</string>
+    <string name="rooms_limit_reached">Rooms limit reached!</string>
+    <string name="adult_limit_reached">Adult limit reached!</string>
+    <string name="child_limit_reached">Child limit reached!</string>
+    <string name="title">Title</string>
+    <string name="child_extra_bed_policy_title">Child and Extra Bed policy</string>
+    <string name="extra_bed_policy_description">Extra beds are dependent on the room you choose. Please check the individual room capacity for more details.</string>
+    <string name="infant_age_range">Infant 0 - %1\$s years:</string>
+    <string name="children_age_range">Children %1\$s - %2\$s years:</string>
+    <string name="stay_free_using_bedding">Stay for free if using existing bedding.</string>
+    <string name="children_use_extra_bed">Any children must use extra bed.</string>
+    <string name="meal_not_covered">Meal won\'t be covered on the total payment.</string>
+    <string name="children_stay_free">Children can stay on existing bedding for free.</string>
+    <string name="extra_bed_additional_charge">If you need an extra bed, it will incur an additional charge.</string>
+    <string name="guests_above_age">Guests above %1\$s years are considered as adult:</string>
+    <string name="extra_bed_additional_charge_for_adult">Must use an extra bed which will incur an additional charge.</string>
+
+    <!-- Array Resources For Drop Downs Ends Here -->
+
+
+
+
+</resources>

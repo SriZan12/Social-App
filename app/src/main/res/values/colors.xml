@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    <color name="colorPrimary">#008577</color>-->
+    <!--    <color name="colorPrimaryDark">#00574B</color>-->
+
+    <color name="status_verified">#027a4e</color>
+    <color name="status_pending">#FF8A00</color>
+    <color name="status_rejected">#E42B4F</color>
+    <color name="color_warning">#FFCC00</color>
+    <color name="color_success">#00E676</color>
+    <color name="border_color">#C2C2C2</color>
+    <color name="text_color_red">#BC1C21</color>
+    <color name="image_color_red">#BC1C21</color>
+    <color name="text_color_red_secondary">#EA2127</color>
+    <color name="my_background_color">#F2F2F2</color>
+    <color name="currency_background">#DAB8B9</color>
+
+
+    <!--    <color name="colorPrimary">#B71C1C</color>-->
+    <color name="colorPrimary">#C7030E</color>
+    <color name="colorPrimaryGray">#909090</color>
+    <color name="lightColorPrimary">#D9D9D9</color>
+    <color name="colorPrimaryDark">#1B5E20</color>
+    <color name="colorAccent">#3CB371</color>
+    <color name="almost_white">#F6F6F7</color>
+
+
+    <color name="background">#FCE4EC</color>
+    <color name="onBackground">#000000</color>
+    <color name="errorColor">#B71C1C</color>
+    <color name="onError">#F6F6F7</color>
+
+    <color name="light_sky_blue">#4CC5B5</color>
+    <color name="light_orange">#EC6E48</color>
+    <color name="light_pink">#FA85B2</color>
+    <color name="light_blue">#A5ACFC</color>
+
+
+    <!--<color name="colorAccent">#FFFF3D00</color>-->
+    <color name="white_text">#e0e0e0</color>
+    <!--<color name="background">#DBDBDB</color>-->
+    <color name="white">#FFFFFF</color>
+    <color name="white1">#FFFFFF</color>
+    <color name="gray_light">#D3CFCF</color>
+    <color name="gray_dark">#A9A9A9</color>
+    <color name="gray">#808080</color>
+    <color name="gray_ada2a2">#ADA2A2</color>
+
+
+
+    <!--    <color name="red">#FFEE1C25</color>-->
+    <color name="red">#B71C1C</color>
+    <color name="royal_blue">#002569</color>
+    <color name="light_royal_blue">#256D85</color>
+
+    <color name="blue">#FF303192</color>
+    <color name="yellow">#FFFFF100</color>
+    <color name="dark_yellow">#CCC104</color>
+    <color name="dark_blue">#FF272361</color>
+
+    <!--http://androidapplink.blogspot.com/2015/05/transparent-color-code-in-android.html-->
+    <color name="white_semi_transparent">#1AD3D3D3</color>
+    <color name="white_semi_transparent1">#8CFFFFFF</color>
+    <color name="green">#3CB371</color>
+    <color name="phone">#4CAF50</color>
+
+
+    <color name="blue_half">#4D2F4779</color>
+
+    <color name="white_half">#80F6F6F7</color>
+    <color name="white_transparent">#BFF6F6F7</color>
+    <color name="bottom_nav_white_transparent">#E6F6F6F7</color>
+    <!--public -->
+
+
+    <color name="Ivory">#ECE6E6</color>
+    <color name="Black">#000000</color>
+    <color name="Gray">#808080</color>
+    <!--    <color name="GhostWhite">#DEDEE2</color>-->
+    <color name="GhostWhite">#F2EDED</color>
+    <color name="border">#e2e3e7</color>
+    <color name="DarkGoldenrod">#B8860B</color>
+    <color name="button_text">#e0e0e0</color>
+
+
+    <!-- Grey -->
+    <color name="md_grey_200">#EEEEEE</color>
+    <color name="md_grey_400">#BDBDBD</color>
+    <color name="md_grey_500">#9E9E9E</color>
+    <color name="grey_text_color">#656565</color>
+    <color name="md_grey_700">#616161</color>
+    <color name="md_grey_800">#424242</color>
+    <color name="md_grey_900">#212121</color>
+
+
+    <color name="grey_2">#b1b1b1</color>
+    <color name="grey_3">#f7f7f7</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="grey_6">#595959</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_80">#37474F</color>
+    <color name="grey_90">#263238</color>
+    <color name="grey_95">#1a1a1a</color>
+    <color name="grey_100_">#0d0d0d</color>
+
+
+    <!-- Green -->
+    <color name="parsley_green">#1F6920</color>
+    <color name="apple_green">#4BB543</color>
+
+
+
+    <color name="white_half2">#99F6F6F7</color>
+    <!--    <color name="white_half2">#66F6F6F7</color>-->
+
+    <color name="black_transparent">#1a000000</color>
+    <color name="black_transparent1">#80000000</color>
+    <color name="black_transparent2">#60000000</color>
+
+
+
+    <color name="gradStop">#52779B</color>
+    <color name="gradStart">#C6C6C6</color>
+
+
+
+    <color name="colorMenuBg">#20a1c9</color>
+
+    <color name="bg">#e0e0e0</color>
+
+
+
+
+    <color name="yellow_50">#FFFDE7</color>
+    <color name="yellow_100">#FFF9C4</color>
+    <color name="yellow_200">#FFF59D</color>
+    <color name="yellow_300">#FFF176</color>
+    <color name="yellow_400">#FFEE58</color>
+    <color name="yellow_500">#FFEB3B</color>
+    <color name="yellow_600">#FDD835</color>
+    <color name="yellow_700">#FBC02D</color>
+    <color name="yellow_800">#F9A825</color>
+    <color name="yellow_900">#F57F17</color>
+    <color name="yellow_A100">#FFFF8D</color>
+    <color name="yellow_A200">#FFFF00</color>
+    <color name="yellow_A400">#FFEA00</color>
+    <color name="yellow_A700">#FFD600</color>
+
+
+    <!--    <color name="white">#fff</color>-->
+    <!--    <color name="white_half">#80F6F6F7</color>-->
+
+
+
+    <color name="blue_transparent">#1a0083ff</color>
+    <color name="blue_transparent1">#800083ff</color>
+    <!--    <color name="gray">#7a7c87</color>-->
+    <color name="light_black">#484b4d</color>
+    <color name="dark_black">#282b35</color>
+    <color name="black">#282b35</color>
+    <!--    <color name="yellow">#ffc84f</color>-->
+    <!--    <color name="green">#00bd9a</color>-->
+    <color name="orange">#ed6c32</color>
+    <color name="transparent_light_black">#0d484b4d</color>
+
+    <!--   <color name="transparent_light_black2">#66484b4d</color>-->
+    <color name="transparent_light_black2">#80484b4d</color>
+    <color name="transparent_light_green">#8098EAC2</color>
+    <color name="transparent_light_red">#80F48096</color>
+
+    <!-- Red -->
+    <color name="rejected_red">#df4759</color>
+    <color name="maroon">#8A020D</color>
+    <color name="light_red">#FCCCCC</color>
+
+
+    <!--    Map Legend Color-->
+    <color name="no_damage">#00ff00</color>
+    <color name="minor_crack">#0000ff</color>
+    <color name="partial_damage">#ffff00</color>
+    <color name="full_damage">#ff0000</color>
+
+
+    <!-- Gradient Color Service Dashboard-->
+    <color name="first_orange">#CD6B11</color>
+    <color name="mid_orange">#DA8638</color>
+    <color name="final_orange">#D8985C</color>
+    <color name="card_border">#BC1C21</color>
+    <color name="selected_card_bg">#FDE5E5</color>
+    <color name="green_two">#027A4E</color>
+    <color name="gold_tier">#F3BC08</color>
+    <color name="silver_tier">#F1C413</color>
+    <color name="golden_medal_color">#f3bc08</color>
+
+
+    <color name="facebook">#1877F2</color>
+    <color name="mail">#C7030E</color>
+    <color name="vertical_line">#E8E8E8</color>
+    <color name="horizontal_line">#E8E8E8</color>
+    <color name="hotel_list_one">#DCFFD7</color>
+    <color name="hotel_list_two">#DCFFD7</color>
+    <color name="gray_drop_down">#B1B1B1</color>
+    <color name="hotel_background">#E1DFDF</color>
+    <color name="slider_count_background">#656565</color>
+
+    <color name="upwork_button">#F8CC36</color>
+</resources>
